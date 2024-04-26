@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi there 👋, im Kuma
+
+I'm a Python BackEnd Developer
+
+Languages and Tools:
 
 <!--
 **KUMA-ORIGINAL/KUMA-ORIGINAL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
