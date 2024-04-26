@@ -1,8 +1,26 @@
 ### Hi there 👋, im Kuma
 
-I'm a Python BackEnd Developer
+### I'm a Python BackEnd Developer
 
 Languages and Tools:
+Python
+Django
+DjangoRest
+Postgres
+sql
+sqlite
+Mysql
+Terminal
+Visual Studio Code
+PyCharm
+JavaScript
+Linux
+Postman
+Server
+Docker
+Celery
+Selenium
+
 
 <!--
 **KUMA-ORIGINAL/KUMA-ORIGINAL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
