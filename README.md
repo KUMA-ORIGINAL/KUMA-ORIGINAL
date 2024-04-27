@@ -1,9 +1,9 @@
-### Hi there 👋, im Kuma
+# Hi there 👋, im Kuma
 
-### I'm a Python BackEnd Developer
+## I'm a Python BackEnd Developer
 
 Languages and Tools:
-https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png
+![image](https://github.com/KUMA-ORIGINAL/KUMA-ORIGINAL/assets/108028683/c3cef703-9b04-45a7-9f02-a748e40af2ff)
 
 <!--
 **KUMA-ORIGINAL/KUMA-ORIGINAL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
