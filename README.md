@@ -2,7 +2,15 @@
 
 ## I'm a Python BackEnd Developer
 
-Languages and Tools: Python, Django, DRF, PostgreSQL, Docker, HTML, CSS, JS
+Languages and Tools: 
+- Python
+- Django
+- DRF
+- PostgreSQL
+- Docker
+- HTML
+- CSS
+- JS
 
 <!--
 **KUMA-ORIGINAL/KUMA-ORIGINAL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
