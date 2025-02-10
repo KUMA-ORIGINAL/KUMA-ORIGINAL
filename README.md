@@ -3,7 +3,7 @@
 ## I'm a Python BackEnd Developer
 
 Languages and Tools: 
-- Python, Django, DRF
+- Python, Django, DRF, FastAPI
 - SQL, SQLite, MongoDB, Redis, PostgreSQL
 - Docker, Docker-compose
 - HTML, CSS, JS
